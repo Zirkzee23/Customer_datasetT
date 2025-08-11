@@ -1,7 +1,3 @@
-Here's a sample `README.md` file you can use to describe how you cleaned and analyzed the customer dataset in **JupyterLab**. This assumes a basic level of preprocessing, cleaning, and some exploratory data analysis steps. You can customize or expand based on what you actually did:
-
----
-
 # 🧹 Customer Dataset Analysis & Cleaning in JupyterLab
 
 ## 📊 Project Overview
@@ -100,6 +96,8 @@ Performed basic EDA to understand customer behavior:
 
 
 ## 📬 Contact
+
+For any question or suggestion, feel free to reach out or open an issue
 
 
 
